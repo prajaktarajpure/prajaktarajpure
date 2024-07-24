@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prajakta Rajpure
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on projects related to data analytics
 - 📫 How to reach me (www.linkedin.com/in/prajaktarajpure)
 - ⚡ Fun fact: A Nontech student want to transform her career into data analytics field
